@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python analyze_style_v2.py:*)",
+      "Bash(python add_watermark.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
